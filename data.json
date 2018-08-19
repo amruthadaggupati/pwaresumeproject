@@ -1,0 +1,58 @@
+{
+	"details":{
+		"image":"images.png",
+		"name":"amar",
+		"phoneno":"+91-7036811124",
+		"email":"amruthavanikommineni125@gmail.com",
+		"address":"vignan's nirula institute of technology and science for women"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+	{
+		"qualification":"btech",
+		"institute":"vignan's nirula institute of technology and science for women",
+		"year":"20116-2020",
+		"percentage":"90%"
+	},
+	{
+		"qualification":"intermediate",
+		"institute":"sri chaitanya collage",
+		"year":"2014-2016",
+		"percentage":"90%"
+	},
+
+	{
+		"qualification":"board of ssc",
+		"institute":"universal techno school",
+		"year":"2014",
+		"percentage":"90%"
+	}
+
+],
+
+"skills":[{
+	"title":"programming languages",
+	"info":["c","c++","java"]
+  },
+  {
+  	"title":"database",
+  	"info":["c","mysql","sql"]
+  },
+  {
+  	"title":"operating system",
+  	"info":["unix","linux","MAC"]
+  }
+],
+"achievements":[{
+	"title":"first in ppt"
+},
+{
+	"title":"second in acadamics"
+}
+
+]
+}
+  
+  
